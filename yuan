@@ -1,2 +1,7 @@
 hello, I am trying to update the remote origin
+<<<<<<< HEAD
 this is the  learning file.
+=======
+try git clone. 
+In addition, I try to change the file yuan and push it to remote.
+>>>>>>> 44242dc343955d4b198e3103988e9a4c417a195f
