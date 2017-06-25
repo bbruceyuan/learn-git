@@ -3,3 +3,8 @@
 
 除了我最后一次提交的 yuan 这个文件，写的稍微还是人能看懂的话 
 
+## ENGLISH CXBEBE
+
+Is it used to learn git? In fact, not, the document is not organized and the contents of the document mean nothing.
+
+In addition to the last time I submitted the yuan document, write a little or can understand the wordS.
