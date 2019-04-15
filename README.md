@@ -8,3 +8,5 @@
 Is it used to learn git? In fact, not, the document is not organized and the contents of the document mean nothing.
 
 In addition to the last time I submitted the yuan document, write a little or can understand the wordS.
+
+## what the language u used is so "intersting",can u teach me,dude?
